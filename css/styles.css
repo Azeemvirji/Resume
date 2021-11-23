@@ -1,0 +1,14 @@
+#name,#info {
+    text-align: center;
+    margin: 0;
+}
+
+#nav{
+    list-style-type: none;
+    display: inline;
+}
+
+li {
+    display: inline;
+    float: left;
+}
